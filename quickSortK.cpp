@@ -8,7 +8,7 @@ class PagedArray{
 };
 
 void PagedArray::RemplazoPagina(){
-    cout << "Esto es un arreglo \n";
+    cout << "Esto es un arreglo, otro cambio más \n";
 }
 
 
